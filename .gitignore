@@ -1,0 +1,23 @@
+# Compiled output — regenerated from source, never commit
+*.class
+*.o
+*.obj
+*.exe
+*.out
+
+# Java
+*.jar
+!lib/*.jar
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
